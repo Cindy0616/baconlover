@@ -1,0 +1,25 @@
+body{
+  background-color: antiquewhite;
+}
+h1{
+ color:red;
+ font-size: 100px;
+}
+ img:hover{
+  background-color: goldenrod;
+}
+.bacon {
+  background-color: greenyellow;
+}
+.broccoli{
+  background-color: pink;
+}
+.circular{
+  border-radius:100%;
+}
+#heading{
+  color:blue;
+}
+/*So you would use the id to identify elements where there is only a single one of them on a particular page.*/
+/*the class you can use it to group related elements that are all going to behave or have a similar style. */
+/*So use classes when you want to apply the same style to a group of related items and use the id to apply a specific style to a single element on your web page.*/
